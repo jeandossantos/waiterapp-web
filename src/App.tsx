@@ -1,5 +1,5 @@
 import { Header } from './components/Header';
-import { Order } from './screens/Order';
+import { Order } from './pages/Order';
 import { GlobalStyles } from './styles/GlobalStyles';
 
 function App() {
